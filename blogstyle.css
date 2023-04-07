@@ -15,7 +15,7 @@ table,td{border: 1px solid black;border-collapse: collapse;}
 .det3,.det4{padding-right: 15px;font-size: large;text-align: center;font-weight: bold;}
 
 a:link{text-decoration: none;}
-div.menu_bar a:hover{background-color: lightcoral;padding-left: 15px;padding-right: 15px;padding-top: 3px;padding-bottom: 3px;}
+div.menu_bar a:hover{background-color: lightcoral;padding-left: 15px;padding-right: 15px;border-radius:1rem}
 
 
 .contact_us{background-color: black;color:whitesmoke ;padding-left: 2%;margin-bottom: 0%;}
